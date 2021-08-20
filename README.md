@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm pkoelin 👋
+I'm a developer.
+
+🔭 Current
+I'm currently working on Bloxified, which is a platform for Discord and all youe favourite games, combined.
+
+📫 Contact
+To contact me quickly and easily, DM me on Discord; pkoelin.#0001
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758706332991488065)](https://discord.com/users/758706332991488065)
 
