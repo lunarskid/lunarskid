@@ -2,7 +2,7 @@
 I'm a developer.
 
 ### 🔭 Current
-I'm currently working on Bloxified, which is a platform for Discord and all youe favourite games, combined.
+I'm currently working on Bloxified, which is a platform for Discord and all your favourite games, combined.
 
 ### 📫 Contact
 To contact me quickly and easily, DM me on Discord; pkoelin.#0001
