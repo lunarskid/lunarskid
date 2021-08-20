@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758706332991488065)](https://discord.com/users/758706332991488065)
+
 <!--
 **pkoelin0/pkoelin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
