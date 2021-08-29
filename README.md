@@ -9,6 +9,8 @@ To contact me quickly and easily, DM me on Discord; wtfpkoelin#1000
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758706332991488065)](https://discord.com/users/758706332991488065)
 
+![pkoelin0's github stats](https://github-readme-stats.vercel.app/api?username=pkoelin0&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000)
+
 <!--
 **pkoelin0/pkoelin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
