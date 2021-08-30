@@ -5,7 +5,7 @@ I'm a developer.
 I'm currently working on Bloxified, which is a platform for Discord and all your favourite games, combined.
 
 ### 📫 Contact
-To contact me quickly and easily, DM me on Discord.
+To contact me quickly and easily, DM me on Discord, **OR** shoot me an email at pkoelin@bloxified.gq
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758706332991488065)](https://discord.com/users/758706332991488065)
 
