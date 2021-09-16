@@ -26,7 +26,7 @@
 <div>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-I'm good at making youtube videos sometimes, check that out please
+I'm good at making youtube videos sometimes, check that out please! :3
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -34,8 +34,8 @@ I'm good at making youtube videos sometimes, check that out please
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< </p>
-<p align="center"><a href="https://twitter.com/pickle_dev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/a6GM2mnEK8" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/pkoelin0" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/pickle_dev" target="_blank"><img src="https://img.shields.io/badge/pickle_dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/a6GM2mnEK8" target="_blank"><img src="https://img.shields.io/badge/Bloxified Community%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/pkoelin0" target="_blank"><img src="https://img.shields.io/badge/pkoelin0%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
 <hr>
