@@ -34,7 +34,7 @@ I'm good at making youtube videos sometimes, check that out please! :3
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< </p>
-<p align="center"><a href="https://twitter.com/pickle_dev" target="_blank"><img src="https://img.shields.io/badge/pickle_dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/a6GM2mnEK8" target="_blank"><img src="https://img.shields.io/badge/Bloxified Community%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/pickle_dev" target="_blank"><img src="https://img.shields.io/badge/pickle.dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/a6GM2mnEK8" target="_blank"><img src="https://img.shields.io/badge/Bloxified Community%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/pkoelin0" target="_blank"><img src="https://img.shields.io/badge/pkoelin0%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
