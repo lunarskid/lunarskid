@@ -39,7 +39,7 @@ most used s-s-sociaw things >~< </p>
 </div>
 <br>
 <div>
-<h2 align="center"~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
+<h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
 <hr>
 </div>
 </div>
