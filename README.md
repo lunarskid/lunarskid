@@ -38,6 +38,11 @@ most used s-s-sociaw things >~< </p>
 <p align="center"><a href="https://twitch.tv/pkoelin0" target="_blank"><img src="https://img.shields.io/badge/pkoelin0%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
+<div>
+<h2 align="center"~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
+<div align="center">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
 <hr>
 </div>
 </div>
