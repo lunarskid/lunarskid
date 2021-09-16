@@ -1,9 +1,7 @@
 <body>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
-<div align="center">
-![Waifus](https://count.getloli.com/get/@pkoelin0?theme=rule34)
-</div>
+![Waifus](https://count.getloli.com/get/@geoxor?theme=rule34)
 <br>
 <div>
 <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>
