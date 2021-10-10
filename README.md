@@ -1,4 +1,5 @@
-pkoelin, dev, 14 \n
+pkoelin, dev, 14
+
 .gg/skidrow
 
 ( う-´)づ ︻╦̵̵̿╤──
