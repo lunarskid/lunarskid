@@ -1,5 +1,4 @@
-pkoelin, dev, 14
-
-.gg/skidrow
-
-( う-´)づ ︻╦̵̵̿╤──
+`>` https://pkoelindev.cf
+`?` discord bot dev
+`$` owner of inferno multitool
+`;` skid, pkoelin, dead
