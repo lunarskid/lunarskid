@@ -1,4 +1,1 @@
-`>` https://pkoelindev.cf
-`?` discord bot dev
-`$` owner of inferno multitool
-`;` skid, pkoelin, dead
+i love you <3 have the best day ever
