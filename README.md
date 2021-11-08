@@ -1,5 +1,4 @@
-some random guy with barely half a braincell
-i guess you can say i know nodejs
+some random guy with barely half a braincell, i guess you can say i know nodejs?
 
 90% of my new projects are all going to be geometry dash related like fr that game is some good shit but anyways 
 
