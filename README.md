@@ -4,6 +4,8 @@ some random guy with barely half a braincell, i guess you can say i know nodejs?
 
 feel free to contribute to anythin i have and i will most likely see it as a pr
 
+![Waifus](https://count.getloli.com/get/@geoxor?theme=rule34)
+
 im generally nice and a pro gamer
 
 baiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
