@@ -1,5 +1,5 @@
 <div align="center">
-fullstack dev
+fullstack dev;
 
 working at spike
 
