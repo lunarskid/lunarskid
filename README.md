@@ -11,7 +11,7 @@ i make exploits in c++ and code in node.js too
 peace, luv yall
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/800717399711023124
-                            )](https://discord.com/users/800717399711023124)
+                            )](https://discord.com/users/846396986228080670)
                            
 <h2 align="center">knowledge:</h2>
 <p>
