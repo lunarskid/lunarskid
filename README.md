@@ -7,7 +7,7 @@ i make exploits in c++ and code in node.js too
 
 ![Waifus](https://count.getloli.com/get/@geoxor?theme=rule34)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unsecuringdev&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unsecuringdev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000)
 
 peace, luv yall
 
