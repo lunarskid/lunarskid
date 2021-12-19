@@ -11,8 +11,10 @@ i mainly use typescript and code in node.js too
 
 peace, luv yall
 
+  my termination amount on discord: 5
+  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846396986228080670
-                            )](https://discord.com/users/846396986228080670)
+                            )](https://discord.com/users/880551141841178654)
                            
 <h2>knowledge:</h2>
 <p>
