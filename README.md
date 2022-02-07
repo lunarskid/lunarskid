@@ -1,7 +1,5 @@
 <div align="center">
-fullstack dev;
-
-working at spike
+fullstack (catgirl) dev;
 
 i mainly use typescript and code in node.js too
 
@@ -9,9 +7,7 @@ i mainly use typescript and code in node.js too
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unsecuringdev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=synthwave&bg_color=00000000)
 
-peace, luv yall
-
-  my termination amount on discord: 6
+love you
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896770982231048254
                             )](https://discord.com/users/896770982231048254)
