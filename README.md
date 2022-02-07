@@ -13,8 +13,8 @@ peace, luv yall
 
   my termination amount on discord: 6
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/880551141841178654
-                            )](https://discord.com/users/880551141841178654)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896770982231048254
+                            )](https://discord.com/users/896770982231048254)
                            
 <h2>knowledge:</h2>
 <p>
