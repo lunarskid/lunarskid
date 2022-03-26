@@ -3,11 +3,11 @@ fullstack (catgirl) dev;
 
 i mainly use typescript and code in node.js too
 
-![Waifus](https://count.getloli.com/get/@geoxor?theme=rule34)
+![Waifus](https://count.getloli.com/get/@lunarskid?theme=rule34)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarskid&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=synthwave&bg_color=00000000)
 
-love you
+love you! <3
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896770982231048254
                             )](https://discord.com/users/896770982231048254)
